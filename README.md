@@ -1,7 +1,7 @@
 # MachineLearningReferences
 
-*** Reinforce Learning
+## Reinforce Learning
 
-***  GAN
+##  GAN
 
-*** Differential Private
+## Differential Private
