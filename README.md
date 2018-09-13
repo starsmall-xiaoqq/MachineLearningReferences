@@ -1,4 +1,4 @@
-# Machine Learning References (list of selected papers to be fastly accessed anywhere)
+# Machine Learning References (list of reading papers to be fastly accessed anywhere)
 
 ## Reinforce Learning
 
