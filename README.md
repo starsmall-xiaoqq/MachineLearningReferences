@@ -3,7 +3,7 @@
 ## Reinforce Learning
 
 ##  GAN
-
+- Patch-Based Image Inpainting with Generative Adversarial Networks [pdf](https://arxiv.org/abs/1803.07422)
 ## Differential Private
 
 
