@@ -21,4 +21,8 @@
 - Missing value imputation with unsupervised backpropagation, 2013 [link](https://arxiv.org/abs/1312.5394)
 - MISSING DATA IMPUTATION FOR SUPERVISED LEARNING, 2016, [link](https://arxiv.org/pdf/1610.09075.pdf) [Code](https://github.com/andirs/impyte)
 
-# WhiteBox
+## WhiteBox
+
+# Entity Embedding
+- Entity Embeddings of Categorical Variables, 2016
+- CAT2VEC: Learning Distributed Representation of Multi-field Categorical Data, ICIR2017
