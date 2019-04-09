@@ -8,6 +8,7 @@
 
 ## X2X
 - "Noise2Noise: Learning Image Restoration without Clean Data", International Conference on Machine Learning(ICML), 2018 https://arxiv.org/abs/1803.04189
+- WaveNet (Audio synalysis)
 
 ## Embeding
 - Tensor Embedding: A Supervised Framework for Human Behavioral Data Mining and Prediction, 2018 [pdf](http://arxiv.org/abs/1808.10867v1)
