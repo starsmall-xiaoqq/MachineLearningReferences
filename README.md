@@ -6,7 +6,7 @@
 - Patch-Based Image Inpainting with Generative Adversarial Networks [pdf](https://arxiv.org/abs/1803.07422)
 ## Differential Private
 
-###X2X
+## X2X
 - "Noise2Noise: Learning Image Restoration without Clean Data", International Conference on Machine Learning(ICML), 2018 https://arxiv.org/abs/1803.04189
 
 ## Embeding
